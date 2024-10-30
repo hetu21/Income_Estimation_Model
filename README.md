@@ -1,7 +1,7 @@
 Objective: Develop a predictive model using credit history & demographic data to estimate individuals’
 annual income.
-Overview:
-In this case study, the task is of building your own model to estimate individuals’ annual income based on their credit history &
+
+Overview: In this case study, the task is of building your own model to estimate individuals’ annual income based on their credit history &
 demographic data. This is a real-world problem commonly faced by insurance companies, where estimating
 income accurately helps in determining risk profiles, premium affordability, and coverage levels for clients.
 You will be provided with two datasets:
